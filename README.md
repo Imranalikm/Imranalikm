@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Imranalikm&label=Profile%20views&color=0e75b6&style=flat" alt="imran" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Imranalikm" target="blank"><img src="https://img.shields.io/twitter/follow/ramzikm?logo=twitter&style=for-the-badge" alt="ramzikm" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Imranalikm" target="blank"><img src="https://img.shields.io/twitter/follow/ramzikm?logo=twitter&style=for-the-badge" alt="imranalikm" /></a> </p>
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on "DocConnect"
 
 - 🌱 I’m currently learning **Typescript and Next.js**
 
