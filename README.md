@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)
+
 <h1 align="center">Hi 👋, Imran Ali KM</h1>
 <h3 align="center">A passionate MERN Stack developer from Malappuram, India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/Imranalikm3434 target="blank"><img src="https://img.shields.io/twitter/follow/Imranalikm3434?logo=twitter&style=for-the-badge" alt="imranalikm" /></a> </p>
 
-- 🔭 I’m currently working on "DocConnect"
+- 🔭 I’m currently working on **DocConnect**
 
 - 🌱 I’m currently learning **Typescript and Next.js**
 
