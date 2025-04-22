@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/Imranalikm3434 target="blank"><img src="https://img.shields.io/twitter/follow/Imranalikm3434?logo=twitter&style=for-the-badge" alt="imranalikm" /></a> </p>
 
-- 🔭 I’m currently working on **DocConnect**
+- 🔭 I’m currently working on **Swap-Free**
 
-- 🌱 I’m currently learning **Typescript and Next.js**
+- 🌱 I’m currently learning **Vue.js and Nest.js**
 
 - 💬 Ask me about **MERN**
 
